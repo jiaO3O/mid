@@ -26,7 +26,7 @@ header {
     /* 或者您期望的寬度 */
     height: 100%;
     /* 或者您期望的高度 */
-
+    border-radius: 100px
 }
 
 .link {
@@ -97,6 +97,7 @@ header {
     justify-content: center;
     /* 水平置中 */
     align-items: center;
+    padding: 30px;
     /* 垂直置中 */
 }
 
