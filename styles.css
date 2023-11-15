@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ECF5FF;
+    margin: 0px;
+}
+
+header {
+    background-color: #CECEFF;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+    font-family: Agbalumo;
+}
+
+.card {
+    font-size: 22px;
+    text-align: center;
+    font-family: Lobster;
+    background-image: url(image/sea.jpg);
+    background-size: cover;
+    width: 100%;
+    /* 或者您期望的寬度 */
+    height: 100%;
+    /* 或者您期望的高度 */
+
+}
+
+.link {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    /* 水平置中 */
+    align-items: center;
+    /* 垂直置中 */
+}
+
+.item {
+    /* 可選樣式，可以設置間距、寬度等 */
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.pp {
+    text-align: center;
+}
+
+.data {
+    font-size: 20px;
+    font-family: 微軟正黑體;
+    text-align: center;
+}
+
+.card1 {
+    font-family: Lobster;
+    font-size: 28px;
+    color: #3A006F;
+    text-align: center;
+    background-image: url(image/cloud.jpg);
+    background-size: cover;
+}
+
+.skill {
+    font-family: 微軟正黑體;
+    font-size: 28px;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    /* 水平置中 */
+    align-items: center;
+    /* 垂直置中 */
+}
+
+.card2 {
+    font-family: Lobster;
+    font-size: 28px;
+    color: #3A006F;
+    text-align: center;
+    background-image: url(image/cloud.jpg);
+    background-size: cover;
+}
+
+.edu {
+    font-family: 微軟正黑體;
+    font-size: 28px;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    /* 水平置中 */
+    align-items: center;
+    /* 垂直置中 */
+}
+
+
+
+footer {
+    background-color: #CECEFF;
+    color: #003060;
+    text-align: center;
+    padding: 5px;
+}
