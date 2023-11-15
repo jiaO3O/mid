@@ -101,6 +101,28 @@ header {
     /* 垂直置中 */
 }
 
+.card3 {
+    font-family: Lobster;
+    font-size: 28px;
+    color: #3A006F;
+    text-align: center;
+    background-image: url(image/cloud.jpg);
+    background-size: cover;
+}
+
+.expe {
+    font-family: 微軟正黑體;
+    font-size: 28px;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+.experi {
+    margin: 20% 3%;
+}
+
 
 
 footer {
