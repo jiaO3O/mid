@@ -119,11 +119,12 @@ header {
 
 .experi {
     margin: 20% 3%;
+    margin-right: 120px;
 }
 
 .card4 {
     font-family: Lobster;
-    font-size: 28px;
+    font-size: 2px;
     text-align: center;
 }
 
@@ -133,6 +134,19 @@ header {
     color: black;
     display: flex;
     justify-content: space-around;
+    margin-top: 20% 3%;
+    margin-left: 20px;
+}
+
+.experi1 {
+    margin: 20% 3%;
+    margin-right: 200px;
+
+}
+
+.ebk {
+    background-image: url(image/cloud.jpg);
+    background-size: cover;
 }
 
 footer {
